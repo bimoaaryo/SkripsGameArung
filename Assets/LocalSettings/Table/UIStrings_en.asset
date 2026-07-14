@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIStrings_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: a1af14de91a2ae742a35d965ce6bcbef, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3222345993815588893
+  m_TableData:
+  - m_Id: 166932381696
+    m_Localized: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279465558016
+    m_Localized: Game Tutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7005476618240
+    m_Localized: Timer {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3222345993815588893
+  - m_Id: 6466558342856704
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6482530319597568
+    m_Localized: Collect chest items {0}/{1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491526904545280
+    m_Localized: Collect all items first!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491586761457664
+    m_Localized: Time's Up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491636518486016
+    m_Localized: Level Selesai!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491668193869824
+    m_Localized: Retry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491833218760704
+    m_Localized: Level Map
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491920086990848
+    m_Localized: Play Again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491971861479424
+    m_Localized: Health
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6492107119394816
+    m_Localized: 'Chest: {0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495913030844416
+    m_Localized: Collect chest items {0}/{1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6724759026008064
+    m_Localized: Items You Collected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738791158120448
+    m_Localized: Black pepper was one of the most valuable commodities in the Nusantara
+      Spice Route trade. This spice was highly sought after by European nations because
+      it was used as a food seasoning, natural preservative, and traditional medicine
+      ingredient. Its high economic value made pepper-producing regions important
+      centers of trade during the colonial era.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738794341597184
+    m_Localized: Clove is a spice native to the Maluku Islands with a strong aroma
+      and high market value. During the spice trade era between the 16th and 18th
+      centuries, cloves became one of the main reasons European nations came to the
+      Nusantara to control trade routes and production sources.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738796019318784
+    m_Localized: Nutmeg is a famous spice originating from the Banda Islands in Maluku.
+      During the colonial period, nutmeg had extremely high economic value, leading
+      to intense competition among European powers to control its production areas.
+      Besides being used as a cooking spice, nutmeg was also utilized for medicine
+      and perfume.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738798405877760
+    m_Localized: Black Pepper
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6739371880480768
+    m_Localized: Clove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6739433008267264
+    m_Localized: Nutmeg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740189031563264
+    m_Localized: Cinnamon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740306576932864
+    m_Localized: Cinnamon is known as a spice with a sweet aroma that is widely used
+      in food, beverages, and traditional medicine. It became one of the important
+      commodities in the Spice Route due to its high demand in European and Middle
+      Eastern markets during the era of international trade.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740491222777856
+    m_Localized: Cardamom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740799218909184
+    m_Localized: Cardamom is a spice commonly used in food, beverages, and traditional
+      medicine in many parts of the world. In the history of the spice trade, cardamom
+      became a valuable commodity because of its distinctive aroma and its health
+      benefits that attracted foreign merchants.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740907872354304
+    m_Localized: The Dutch Guilder was the currency used by the Dutch colonial government
+      and became an important medium of exchange in the spice trade across the Nusantara.
+      It was used in commercial transactions involving local merchants, trading companies,
+      and colonial authorities.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741085337550848
+    m_Localized: Dutch Guilder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741163720704000
+    m_Localized: Trade Document
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741308407414784
+    m_Localized: Trade documents were official records used in spice trading activities,
+      including sales agreements, ship cargo manifests, and trading permits. These
+      documents played an important role in regulating spice distribution routes
+      and maintaining trade relations between regions and nations during the historical
+      spice trade era.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843324731719680
+    m_Localized: Tap to Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843841314783232
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15844402542018560
+    m_Localized: Enter Your Name
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3222345993815588893
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 7005476618240

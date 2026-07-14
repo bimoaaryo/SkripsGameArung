@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/Scenes/LevelMap.unity
+    guid: 29b0fce688eef5245adc82c8857afe3f
+  - enabled: 0
+    path: Assets/Scenes/LevelSelect.unity
+    guid: a1fc1c4a1705fdf4f8c39bb06acd1e0d
+  - enabled: 0
+    path: Assets/Scenes/LevelMaluku.unity
+    guid: b794f2c031365644495e3a04299c7941
+  - enabled: 0
+    path: Assets/Scenes/LevelMalaka.unity
+    guid: ff8e28f38586103439a13d04642185bb
+  - enabled: 0
+    path: Assets/Scenes/LevelBatavia.unity
+    guid: 0e8903704dad05d4b8573c91d614d7c4
+  - enabled: 0
+    path: Assets/Scenes/TutorialScene.unity
+    guid: 317ea103b80285340897235efbfff925
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 2e9d03571b325824e952d2eb44f6cd34
+  - enabled: 1
+    path: Assets/Scenes/Level1Maluku.unity
+    guid: d16d8c060b2be174c805058980dfbecf
+  - enabled: 1
+    path: Assets/Scenes/Cutscene1to2.unity
+    guid: 075d310abce9b124bbbe10802302698c
+  - enabled: 1
+    path: Assets/Scenes/Level2Batavia.unity
+    guid: a7617156dd5200c4abf517799cd0871f
+  - enabled: 1
+    path: Assets/Scenes/Cutscene2to3.unity
+    guid: a24e5947dbef32d4eaeb89a20c7732a4
+  - enabled: 1
+    path: Assets/Scenes/Level3_Malaka.unity
+    guid: 8e76d8df2aad9264c8ccad6bd20615f6
+  - enabled: 1
+    path: Assets/Scenes/HasilAkhir.unity
+    guid: 57957928eb1c58e47a06547cb837759f
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 84c0b5954e132f349bda073302ea9de4, type: 2}
+    com.unity.localization.settings: {fileID: 11400000, guid: 94f1e298fa7c43240bb405d9c23576ec, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e20f1124b8564f245904f562515493c3, type: 3}
+  m_Name: SpiceData_KapulagaHijau
+  m_EditorClassIdentifier: 
+  spiceID: spice_kapulagahijau
+  spiceName: Kapulaga Hijau
+  rarity: 0
+  dropWeight: 100
+  tradeValue: 10
+  spiceIcon: {fileID: 21300000, guid: 1767ffcf1df4ea64fbdfe2ca088846d5, type: 3}
+  rarityColor: {r: 1, g: 1, b: 1, a: 1}
+  chestSprite: {fileID: 21300000, guid: e90e0e892f9c7c448978825b2d494333, type: 3}
+  chestOpenSprite: {fileID: 0}
+  panelTitle: Rempah Ditemukan!
+  panelContent: Kamu menemukan rempah berharga!

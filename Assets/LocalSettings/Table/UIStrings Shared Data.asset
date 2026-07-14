@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UIStrings Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UIStrings
+  m_TableCollectionNameGuidString: a1af14de91a2ae742a35d965ce6bcbef
+  m_Entries:
+  - m_Id: 166932381696
+    m_Key: Start
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279465558016
+    m_Key: TutorialGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7005476618240
+    m_Key: DynamicText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6466558342856704
+    m_Key: QuitGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6482530319597568
+    m_Key: hint_collect_item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491526904545280
+    m_Key: hint_collect_all
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491586761457664
+    m_Key: fail_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491636518486016
+    m_Key: win_title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491668193869824
+    m_Key: retry_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491833218760704
+    m_Key: map_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491920086990848
+    m_Key: replay_button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491971861479424
+    m_Key: health_label
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6492107119394816
+    m_Key: chest_progress
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495913030844416
+    m_Key: gate_locked
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6724759026008064
+    m_Key: itemcollected_win
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738791158120448
+    m_Key: lada_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738794341597184
+    m_Key: cengkeh_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738796019318784
+    m_Key: pala_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738798405877760
+    m_Key: lada_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6739371880480768
+    m_Key: cengkeh_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6739433008267264
+    m_Key: pala_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740189031563264
+    m_Key: kayumanis_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740306576932864
+    m_Key: kayumanis_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740491222777856
+    m_Key: kapulaga_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740799218909184
+    m_Key: kapulaga_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740907872354304
+    m_Key: gulden_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741085337550848
+    m_Key: gulden_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741163720704000
+    m_Key: dokumendagang_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741308407414784
+    m_Key: dokumendagang_description
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843324731719680
+    m_Key: TapToStart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843841314783232
+    m_Key: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15844402542018560
+    m_Key: NameInput
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3222345993815588888
+  references:
+    version: 2
+    RefIds:
+    - rid: 3222345993815588888
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1777468287409

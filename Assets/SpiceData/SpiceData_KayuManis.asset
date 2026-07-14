@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e20f1124b8564f245904f562515493c3, type: 3}
+  m_Name: SpiceData_KayuManis
+  m_EditorClassIdentifier: 
+  spiceID: spice_kayumanis
+  spiceName: KayuManis
+  rarity: 0
+  dropWeight: 75
+  tradeValue: 10
+  spiceIcon: {fileID: 21300000, guid: 418ae36c138539b449515dff2da61b43, type: 3}
+  rarityColor: {r: 1, g: 1, b: 1, a: 1}
+  chestSprite: {fileID: 21300000, guid: 98b5adaa46bfd7345851850be317da6c, type: 3}
+  chestOpenSprite: {fileID: 0}
+  panelTitle: Rempah Ditemukan!
+  panelContent: Kayu manis dikenal sebagai rempah dengan aroma manis yang digunakan
+    dalam makanan, minuman, hingga pengobatan tradisional. Rempah ini menjadi salah
+    satu komoditas penting dalam Jalur Rempah karena permintaannya yang tinggi di
+    pasar Eropa dan Timur Tengah pada masa perdagangan internasional.
+  descriptionKey: kayumanis_description

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c54ef49e45606e45a488a9330ab4041, type: 3}
+  m_Name: QuizCollectionBataviaRempah2 1
+  m_EditorClassIdentifier: 
+  questions:
+  - {fileID: 11400000, guid: a7e6fd264fee73c4aa6439cb136f4ba7, type: 2}
+  - {fileID: 11400000, guid: 7bf218837c92e0a4f84a33d68091f59a, type: 2}
+  - {fileID: 11400000, guid: 9c9cacc4e58a5e74398eb4fd91cf2112, type: 2}
+  avoidRepeat: 1

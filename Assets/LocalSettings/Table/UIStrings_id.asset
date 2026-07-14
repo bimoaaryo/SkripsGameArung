@@ -1,0 +1,182 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UIStrings_id
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: id
+  m_SharedData: {fileID: 11400000, guid: a1af14de91a2ae742a35d965ce6bcbef, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 3222345993815588894
+  m_TableData:
+  - m_Id: 166932381696
+    m_Localized: Mulai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 279465558016
+    m_Localized: Tutorial Permainan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7005476618240
+    m_Localized: Waktu {0}
+    m_Metadata:
+      m_Items:
+      - rid: 3222345993815588894
+  - m_Id: 6466558342856704
+    m_Localized: Keluar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6482530319597568
+    m_Localized: Kumpulkan chest item {0}/{1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491526904545280
+    m_Localized: Kumpulkan semua item terlebih dahulu!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491586761457664
+    m_Localized: Waktu Habis!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491636518486016
+    m_Localized: Level Complete!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491668193869824
+    m_Localized: Ulangi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491833218760704
+    m_Localized: Peta Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491920086990848
+    m_Localized: Main Lagi
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6491971861479424
+    m_Localized: Nyawa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6492107119394816
+    m_Localized: 'Chest: {0}/{1}'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6495913030844416
+    m_Localized: Kumpulkan chest item {0}/{1}
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6724759026008064
+    m_Localized: Item yang Anda Kumpulkan
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738791158120448
+    m_Localized: Lada merupakan salah satu komoditas rempah paling berharga dalam
+      perdagangan Jalur Rempah Nusantara. Rempah ini banyak dicari oleh bangsa Eropa
+      karena digunakan sebagai penyedap makanan, pengawet alami, serta bahan pengobatan
+      tradisional. Tingginya nilai ekonomi lada menjadikan wilayah penghasil lada
+      sebagai pusat perdagangan penting pada masa kolonial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738794341597184
+    m_Localized: Cengkeh adalah rempah khas Kepulauan Maluku yang memiliki aroma
+      kuat dan nilai jual tinggi di pasar internasional. Pada masa perdagangan rempah
+      abad ke-16 hingga ke-18, cengkeh menjadi salah satu alasan utama bangsa Eropa
+      datang ke Nusantara untuk menguasai jalur perdagangan dan sumber produksinya.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738796019318784
+    m_Localized: Pala merupakan rempah khas Nusantara yang berasal dari Kepulauan
+      Banda di Maluku. Pada masa kolonial, pala memiliki nilai ekonomi yang sangat
+      tinggi sehingga memicu persaingan antarbangsa Eropa untuk menguasai wilayah
+      penghasilnya. Selain sebagai bumbu masakan, pala juga digunakan untuk obat
+      dan parfum.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6738798405877760
+    m_Localized: Lada
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6739371880480768
+    m_Localized: Cengkeh
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6739433008267264
+    m_Localized: Pala
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740189031563264
+    m_Localized: Kayu Manis
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740306576932864
+    m_Localized: Kayu manis dikenal sebagai rempah dengan aroma manis yang digunakan
+      dalam makanan, minuman, hingga pengobatan tradisional. Rempah ini menjadi salah
+      satu komoditas penting dalam Jalur Rempah karena permintaannya yang tinggi
+      di pasar Eropa dan Timur Tengah pada masa perdagangan internasional.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740491222777856
+    m_Localized: Kapulaga
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740799218909184
+    m_Localized: Kapulaga merupakan rempah yang digunakan sebagai bahan masakan,
+      minuman, dan obat tradisional di berbagai wilayah dunia. Dalam sejarah perdagangan
+      rempah, kapulaga menjadi salah satu komoditas bernilai tinggi karena aromanya
+      yang khas dan manfaat kesehatannya yang banyak diminati pedagang asing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6740907872354304
+    m_Localized: Gulden adalah mata uang yang digunakan oleh Belanda pada masa kolonial
+      dan menjadi alat transaksi penting dalam perdagangan rempah di Nusantara. Mata
+      uang ini digunakan dalam aktivitas jual beli antara pedagang lokal, perusahaan
+      dagang, dan pemerintah kolonial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741085337550848
+    m_Localized: Gulden
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741163720704000
+    m_Localized: Dokumen Dagang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6741308407414784
+    m_Localized: Dokumen dagang merupakan catatan resmi yang digunakan dalam aktivitas
+      perdagangan rempah, seperti perjanjian jual beli, daftar muatan kapal, dan
+      izin perdagangan. Dokumen ini menjadi bukti penting dalam mengatur jalur distribusi
+      rempah serta hubungan dagang antarwilayah dan antarnegara pada masa itu.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843324731719680
+    m_Localized: Tekan Untuk Memulai
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15843841314783232
+    m_Localized: Papan Peringkat
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15844402542018560
+    m_Localized: Masukkan Nama
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 3222345993815588894
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 
+        m_SharedEntries:
+        - id: 7005476618240
